@@ -3,7 +3,7 @@ widget = "accomplishments"
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title = "Accomplishments"
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
