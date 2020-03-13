@@ -4,6 +4,9 @@ headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Accomplishments"
+subtitle = ""
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
